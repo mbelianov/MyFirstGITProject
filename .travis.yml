@@ -4,7 +4,7 @@ node_js:
 deploy:
   provider: s3
   access_key_id: "AKIAIGZHXQC6D5NZKJ5Q"
-  secret_access_key: "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"
+  secret_access_key: "secret key"
   bucket: "dev.arabadjikova.com"
   skip_cleanup: true
   
